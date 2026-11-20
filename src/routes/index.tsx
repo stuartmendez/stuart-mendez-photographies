@@ -152,7 +152,7 @@ function Hero() {
         sizes="100vw"
         alt={hero.alt}
         fetchPriority="high"
-        className="slow-zoom absolute inset-0 size-full object-cover"
+        className="slow-zoom absolute inset-0 size-full object-cover object-[57%_60%]"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-background via-background/25 to-background/50" />
       <div className="relative mx-auto flex w-full max-w-content flex-col items-center px-5 pb-12 text-center sm:px-10 md:pb-16">
