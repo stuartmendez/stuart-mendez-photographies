@@ -67,9 +67,9 @@ export const travel: TravelStory[] = [
 ]
 
 export const hero = {
-  file: 'hero.png',
+  file: 'hero-mountains.jpg',
   caption: 'South Coast, Iceland — 2025',
-  alt: 'A lone figure walking across a black sand beach in the fog',
+  alt: 'A lone hiker standing on a rocky overlook, gazing at snow-capped mountain peaks under a deep blue sky',
 }
 
 export const about = {
